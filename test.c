@@ -2,6 +2,10 @@
 
 int getInput()
 {
+    int num;
+    
+    scanf("%d",&num);
+    return num;
 }
 void getOutput(int num)
 {
